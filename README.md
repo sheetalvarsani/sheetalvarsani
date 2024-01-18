@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello World 👋
-#### I'm Sheetal! A burnt-out wedding photographer transitioning into the tech industry 🤖
+#### I'm Sheetal; a burnt-out wedding photographer transitioning into the tech industry 🤖
 
 <p>
   <a href="https://www.linkedin.com/in/sheetalvarsani" rel="nofollow noreferrer">
@@ -9,14 +9,11 @@
   </a>
 </p>
 
-
-
-🌱 Currently learning full-stack development <br>
-🔭 Aspiring to be a front-end developer<br>
-⚡ Avid arts-and-craft-er
+🌱 Currently learning Full-Stack Development <br>
+🔭 Aspiring to be a Front-End Developer<br>
+⚡ Avid Crafter & Etsy Shop Owner
 
 </div>
-
 
 #
 
@@ -32,18 +29,3 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheetalvarsani&hide_progress=true)
 </div>
-
-<!--
-**sheetalvarsani/sheetalvarsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

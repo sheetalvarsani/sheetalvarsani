@@ -6,7 +6,7 @@
 - 🔭 Aspiring to be a front-end developer
 - ⚡ Code First Girls | Autumn '23 Cohort
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **sheetalvarsani/sheetalvarsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

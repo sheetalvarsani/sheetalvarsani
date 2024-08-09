@@ -9,9 +9,8 @@
   </a>
 </p>
 
-🌱 Currently learning Full-Stack Development <br>
-🔭 Aspiring to be a Front-End Developer<br>
-⚡ Avid Crafter & Etsy Shop Owner
+🌱 Currently training to become a Software Engineer <br>
+⚡ Avid Crafter & Small Business Owner
 
 </div>
 

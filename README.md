@@ -21,7 +21,7 @@
   <p align="center">My Skills:</p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,bootstrap,mysql,nodejs,py,flask,jest,aws,mongodb,codepen,figma,ps,git,github,java,sass,spring&perline=9&theme=light" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,bootstrap,mysql,nodejs,py,flask,jest,aws,mongodb,codepen,figma,ps,git,github,java,sass,spring&perline=7&theme=light" />
     </a>
   </p>
   <br>

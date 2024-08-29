@@ -27,6 +27,15 @@
     </a>
   </p>
   <br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheetalvarsani&show_icons=true" />
+</a>
+  <a href="https://github.com/sheetalvarsani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheetalvarsani&hide_progress=true" />
+</a>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheetalvarsani&hide_progress=true)
+
+
+
+
 </div>

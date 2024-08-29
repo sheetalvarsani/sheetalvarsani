@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hello World 👋
-#### I'm Sheetal; a burnt-out wedding photographer transitioning into the tech industry 🤖
+# Hello World 👋🏽
+<p align="center"><strong>I'm Sheetal (pronounced: [sh ee - t uh l]);<br>A burnt-out wedding photographer transitioning into the tech industry 🤖; </strong></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin">

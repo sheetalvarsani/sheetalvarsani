@@ -4,8 +4,9 @@
 #### I'm Sheetal; a burnt-out wedding photographer transitioning into the tech industry 🤖
 
 <p>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin">
   <a href="https://www.linkedin.com/in/sheetalvarsani" rel="nofollow noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin"> LinkedIn
+    LinkedIn Profile
   </a>
 </p>
 
@@ -18,7 +19,7 @@
 
 <div align="center">
   <br>
-  <p align="center">My Experience:</p>
+  <p align="center"><strong>Skills Experience:</strong></p>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vscode,bootstrap,mysql,nodejs,py,flask,jest,aws,mongodb,codepen,figma,ps,git,github,java,sass,spring,bash,githubactions&perline=8&theme=dark" />

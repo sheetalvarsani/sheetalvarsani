@@ -5,10 +5,15 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin">
-<a href="https://www.linkedin.com/in/sheetalvarsani" target="_blank" rel="nofollow noreferrer">
-  LinkedIn Profile
+  🙋🏽‍♀️
+<a href="https://www.linkedin.com/in/sheetalvarsani" rel="nofollow noreferrer">
+  LinkedIn Profile</a>  <br> 🖥️
+<a href="https://sheetalvarsani.github.io/portfolio/" rel="nofollow noreferrer">
+  Projects Portfolio
 </a>
+</p>
+<p>
+
 </p>
 
 🌱 Currently re-training as a Junior Software Engineer <br>

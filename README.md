@@ -27,7 +27,7 @@
     </a>
   </p>
   <br>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" rel="nofollow noreferrer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheetalvarsani&show_icons=true" />
 </a>
   <a href="https://github.com/sheetalvarsani">

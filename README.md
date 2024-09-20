@@ -6,9 +6,9 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin">
-  <a href="https://www.linkedin.com/in/sheetalvarsani" target="_blank" rel="nofollow noreferrer">
-    LinkedIn Profile
-  </a>
+<a href="https://www.linkedin.com/in/sheetalvarsani" target="_blank" rel="nofollow noreferrer">
+  LinkedIn Profile
+</a>
 </p>
 
 🌱 Currently re-training as a Junior Software Engineer <br>

@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="15" height="15" alt="linkedin">
-  <a href="https://www.linkedin.com/in/sheetalvarsani" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/sheetalvarsani" target="_blank" rel="nofollow noreferrer">
     LinkedIn Profile
   </a>
 </p>
@@ -27,7 +27,7 @@
     </a>
   </p>
   <br>
-<a href="https://github.com/anuraghazra/convoychat" rel="nofollow noreferrer">
+<a href="https://github.com/anuraghazra/convoychat" target="_blank" rel="nofollow noreferrer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheetalvarsani&show_icons=true" />
 </a>
   <a href="https://github.com/sheetalvarsani">

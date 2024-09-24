@@ -28,7 +28,7 @@
   <p align="center"><strong>Skills Experience:</strong></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vscode,bootstrap,mysql,nodejs,py,jest,flask,aws,mongodb,codepen,figma,ps,git,github,java,sass,spring,bash,vite,postman,githubactions&perline=13&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vscode,bootstrap,mysql,nodejs,py,jest,flask,aws,mongodb,codepen,figma,ps,git,github,java,sass,cypress,bash,vite,postman,githubactions&perline=13&theme=dark" />
     </a>
   </p>
   <br>
